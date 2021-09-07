@@ -4,3 +4,6 @@ TestNetFramework/packages/
 TestNetFramework/TestNetFramework/bin/
 TestNetFramework/TestNetFramework/obj/
 TestAspNetWebApplication/obj/
+packages/
+TestAspNetWebApplication.Tests/bin/
+TestNetFramework/obj/

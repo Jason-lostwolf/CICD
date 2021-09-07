@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{6180A581-554B-4B82-9F89-6B1D7FC26C36}</ProjectGuid>
+    <ProjectGuid>{ED62369B-C430-4503-992C-B734D111535B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TestAspNetWebApplication.Tests</RootNamespace>
@@ -109,8 +109,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\TestAspNetWebApplication\TestAspNetWebApplication.csproj">
-      <Project>{AE07FF27-2E77-4638-A948-2DF759C74362}</Project>
+    <ProjectReference Include="..\TestAspNetWebApplication\TestAspNetWebApplication.csproj">
+      <Project>{5DC0B485-7FAA-45D8-8319-A30978CC4B29}</Project>
       <Name>TestAspNetWebApplication</Name>
     </ProjectReference>
   </ItemGroup>
