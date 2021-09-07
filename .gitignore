@@ -1,0 +1,6 @@
+.vs/
+TestAspNetWebApplication/bin/
+TestNetFramework/packages/
+TestNetFramework/TestNetFramework/bin/
+TestNetFramework/TestNetFramework/obj/
+TestAspNetWebApplication/obj/
