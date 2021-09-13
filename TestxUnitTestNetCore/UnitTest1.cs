@@ -11,5 +11,12 @@ namespace TestxUnitTestNetCore
             Console.WriteLine("Test xUnit Test in .Net Core " + DateTime.Now.ToString());
             Assert.True(true);
         }
+
+        [Fact]
+        public void Test2()
+        {
+            Console.WriteLine("Test xUnit Test in .Net Core " + DateTime.Now.ToString());
+            Assert.True(false);
+        }
     }
 }
