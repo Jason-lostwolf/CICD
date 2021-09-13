@@ -7,3 +7,8 @@ TestAspNetWebApplication/obj/
 packages/
 TestAspNetWebApplication.Tests/bin/
 TestNetFramework/obj/
+TestAspNetWebApplication.Tests/obj/
+TestNetFramework/bin/
+TestxUnitTest/obj/
+TestxUnitTestNetCore/bin/
+TestxUnitTestNetCore/obj/

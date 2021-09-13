@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAspNetWebApplication", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAspNetWebApplication.Tests", "TestAspNetWebApplication.Tests\TestAspNetWebApplication.Tests.csproj", "{ED62369B-C430-4503-992C-B734D111535B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestxUnitTest", "TestxUnitTest\TestxUnitTest.csproj", "{37005A55-5812-4B84-A629-23A00D05576C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestxUnitTestNetCore", "TestxUnitTestNetCore\TestxUnitTestNetCore.csproj", "{F1B14E9E-7D81-40C4-83D2-34EF247D9C6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{ED62369B-C430-4503-992C-B734D111535B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED62369B-C430-4503-992C-B734D111535B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED62369B-C430-4503-992C-B734D111535B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37005A55-5812-4B84-A629-23A00D05576C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37005A55-5812-4B84-A629-23A00D05576C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37005A55-5812-4B84-A629-23A00D05576C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37005A55-5812-4B84-A629-23A00D05576C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B14E9E-7D81-40C4-83D2-34EF247D9C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B14E9E-7D81-40C4-83D2-34EF247D9C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B14E9E-7D81-40C4-83D2-34EF247D9C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B14E9E-7D81-40C4-83D2-34EF247D9C6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
