@@ -12,5 +12,12 @@ namespace TestxUnitTest
             Console.WriteLine("Test xUnit Test in .Net Framwork " + DateTime.Now.ToString());
             Assert.True(true);
         }
+
+        [Fact]
+        public void TestMethod2()
+        {
+            Console.WriteLine("Test xUnit Test in .Net Framwork " + DateTime.Now.ToString());
+            Assert.True(false);
+        }
     }
 }
